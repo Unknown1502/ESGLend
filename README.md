@@ -140,7 +140,7 @@ esglend/
 ├── ml-models/            # Machine learning models
 ├── docs/                 # Documentation
 ├── deployment/           # Docker and deployment configs
-└── demo/                 # Demo data and scripts
+
 ```
 
 ### License
